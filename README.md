@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamikapunsisi" height="30" width="40" /></a>
 <a href="https://fb.com/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gamikapunsisi" height="30" width="40" /></a>
 <a href="https://instagram.com/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamikadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamikadev" height="30" width="40" /></a>
+<a href="https://youtube.com/@gamikadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamikadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
