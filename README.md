@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Higher National Diploma in Software Engineering @ NIBM**
 
-- 💬 Ask me about **Java , C ,C++ , MySql , Python**
+- 💬 Ask me about **Java , PHP ,C ,C++ , MySql , Python**
 
 - 📫 How to reach me **rmgpramanayaka@gmail.com**
 
