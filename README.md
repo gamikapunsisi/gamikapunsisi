@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamikapunsisi&label=Profile%20views&color=0e75b6&style=flat" alt="gamikapunsisi" /> </p>
 
-- 🌱 I’m currently learning **Higher National Diploma in Software Engineering @ NIBM**
+- 🌱 I’m currently learning **BSc(Hons)Computing @Coventry University**
 
 - 💬 Ask me about **Java , PHP ,C ,C++ , MySql , Python**
 
