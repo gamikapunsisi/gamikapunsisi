@@ -22,7 +22,6 @@ I'm currently focusing on learning the following topics:
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 [![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Azure](https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoft-azure&logoColor=0078D4)](https://azure.microsoft.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
