@@ -1,34 +1,103 @@
-<<h1 align="center">Hi 👋, I'm Gamika Punsisi</h1>
-<h3 align="center">A passionate Backend developer from Srilanka</h3>
+# Hi everyone! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamikapunsisi&label=Profile%20views&color=0e75b6&style=flat" alt="gamikapunsisi" /> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/gamikapunsisi)
 
-<p align="left"> <a href="https://twitter.com/gamikapunsisi" target="blank"><img src="https://img.shields.io/twitter/follow/gamikapunsisi?logo=twitter&style=for-the-badge" alt="gamikapunsisi" /></a> </p>
 
-- 🌱 I’m currently learning **BSc(Hons)Computing @Coventry University**
+## 💼 About Me
 
-- 💬 Ask me about **Java,PHP,Python,C#**
+I'm Gamika Punsisi, a 🎓 Computing Student, 💻 Software Engineer, and 📢 Content Creator.
 
-- 📫 How to reach me **rmgpramanayaka@gmail.com**
+## 🌱 Currently Learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16166623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16166623" height="30" width="40" /></a>
-<a href="https://fb.com/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-<a href="https://instagram.com/gamika_punsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamika_punsisi" height="30" width="40" /></a>
-<a href="https://dribbble.com/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamikapunsisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamikapunsisi" height="30" width="40" /></a>
-</p>
+I'm currently focusing on learning the following topics:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=512BD4)](https://dotnet.microsoft.com/languages/csharp)
+[![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![.NET](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)](https://flutter.dev/)
+[![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+[![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
+[![Azure](https://img.shields.io/badge/Azure-000000?style=flat&logo=microsoft-azure&logoColor=0078D4)](https://azure.microsoft.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E)](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=D00000)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
+[![SciKit Learn](https://img.shields.io/badge/SciKit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamikapunsisi&show_icons=true&locale=en&layout=compact" alt="gamikapunsisi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamikapunsisi&show_icons=true&locale=en" alt="gamikapunsisi" /></p>
+## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamikapunsisi&" alt="gamikapunsisi" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamikapunsisi&show_icons=true&theme=dark&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamikapunsisi&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=18)
+
+
+
+## 🏆 Career Goals
+
+I'm currently pursuing the following career paths:
+
+💻 **Software Engineer**
+🤖 **AI Engineer**  
+
+## 💌 Looking to Connect?
+
+You can find me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/gamikapunsisi/)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?flat&logo=youtube&logoColor=FF0000)](https://youtube.com/@gamikapunsisi/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=E4405F)](https://instagram.com/gamika_punsisi/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16166623)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/gamikapunsisi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gamikapunsisi)
+
+
+
+Feel free to send me an email at [contact@gamikadev](mailto:contact@gamikadev)
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
