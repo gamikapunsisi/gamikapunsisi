@@ -62,7 +62,7 @@ You can find me on the following platforms:
 
 
 
-Feel free to send me an email at [contact@gamikadev](mailto:contact@gamikadev)
+Feel free to send me an email at [contact@gamikadev](mailto:gamikadev@gmail.com)
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
