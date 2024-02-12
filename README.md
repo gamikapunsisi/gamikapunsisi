@@ -16,7 +16,6 @@ I'm currently focusing on learning the following topics:
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![.NET](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=02569B)](https://flutter.dev/)
 [![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
