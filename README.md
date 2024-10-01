@@ -59,6 +59,8 @@ You can find me on the following platforms:
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/gamikapunsisi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gamikapunsisi)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@gamikapunsisi)
+[![dev.to](https://img.shields.io/badge/dev.to-0a0a0a?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gamikapunsisi)
+
 
 
 
