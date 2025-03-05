@@ -5,7 +5,7 @@
 
 ## 💼 About Me
 
-I'm Gamika Punsisi, a 🎓 Computing Student, 💻 Software Engineer, and 📢 Content Creator.
+I'm Gamika Punsisi, a 🎓 Computing Student, 💻 Software Engineer, 📊 Data Scientist, 🧠 ML Developer and 📢 Content Creator.
 
 ## 🌱 Currently Learning
 
@@ -47,6 +47,7 @@ I'm currently pursuing the following career paths:
 
 💻 **Software Engineer**
 🤖 **AI Engineer**  
+📊 **Data Scientist**
 
 ## 💌 Looking to Connect?
 
