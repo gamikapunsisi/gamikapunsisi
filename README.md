@@ -7,7 +7,7 @@
 
 I'm Gamika Punsisi, a 🎓 Computing Student, 💻 Software Engineer, 🧠 ML Developer and 📢 Content Creator.
 
-2+ years’ experience in full-stack development using Laravel, Python, MySQL, React, and more. Passionate about building efficient, scalable solutions and solving complex problems.
+2+ years’ experience in full-stack development using Laravel, Python, Node Js, MySQL, React, and more. Passionate about building efficient, scalable solutions and solving complex problems.
 
 ## 🌱 Currently Learning
 
