@@ -42,11 +42,6 @@ I'm currently focusing on learning the following topics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamikapunsisi&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=18)
 
 
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gamikapunsisi&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true)
-
-
-
 ## 🏆 Career Goals
 
 I'm currently pursuing the following career paths:
