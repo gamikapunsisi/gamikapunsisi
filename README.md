@@ -55,13 +55,6 @@ I have **2+ years of experience** in full-stack development with a focus on **mo
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gamikapunsisi&show_icons=true&theme=dark&bg_color=0d1117&count_private=true&include_all_commits=true&hide_border=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamikapunsisi&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=18)
-
----
-
 ## 🏆 Career Goals
 
 💻 **Software Engineer**  
