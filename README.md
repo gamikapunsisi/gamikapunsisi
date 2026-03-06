@@ -8,7 +8,7 @@
 
 Hi! I'm **Gamika Punsisi** — a 🎓 Computing Student, 💻 Full-Stack Software Engineer, 🧠 AI/ML Developer, and 📢 Content Creator.  
 
-I have **2+ years of experience** in full-stack development with a focus on **modern, scalable, and high-performance applications**. I love solving complex problems, building clean architectures, and working on production-ready solutions.
+I have **3+ years of experience** in full-stack development with a focus on **modern, scalable, and high-performance applications**. I love solving complex problems, building clean architectures, and working on production-ready solutions.
 
 **Core Skills:** Python (FastAPI), Node.js (Express.js), Laravel, React / Next.js, TypeScript, MySQL, MongoDB, MSSQL.
 
