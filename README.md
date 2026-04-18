@@ -10,7 +10,7 @@ Hi! I'm **Gamika Punsisi** — a 🎓 Computing Student, 💻 Full-Stack Softwar
 
 I have **3+ years of experience** in full-stack development with a focus on **modern, scalable, and high-performance applications**. I love solving complex problems, building clean architectures, and working on production-ready solutions.
 
-**Core Skills:** Python (FastAPI), Node.js (Express.js), Golang Laravel, React / Next.js, TypeScript, MySQL, MongoDB, MSSQL.
+**Core Skills:** Python (FastAPI), Node.js (Express.js), Golang, Laravel, React / Next.js, TypeScript, MySQL, MongoDB, MSSQL.
 
 ---
 
