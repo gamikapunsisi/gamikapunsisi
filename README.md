@@ -64,7 +64,7 @@ I have **3+ years of experience** in full-stack development with a focus on **mo
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@gamikapunsisi)  
 [![dev.to](https://img.shields.io/badge/dev.to-0a0a0a?style=flat&logo=dev.to&logoColor=white)](https://dev.to/gamikapunsisi)  
 
-📧 Email: [contact@gamikadev@gmail.com](mailto:gamikadev@gmail.com)
+📧 Email: [gamikadev@gmail.com](mailto:gamikadev@gmail.com)
 
 ---
 
