@@ -14,44 +14,34 @@ I have **3+ years of experience** in full-stack development with a focus on **mo
 
 ---
 
-## 🌱 Currently Learning / Tech Stack
+## 🧩 What I Do Best
 
-### Backend & Core Languages
-[![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=ffffff)](https://expressjs.com/)
-[![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)](https://laravel.com/)
-[![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=007396)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=6DB33F)](https://spring.io/projects/spring-boot)
-[![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=512BD4)](https://dotnet.microsoft.com/languages/csharp)
-[![.NET](https://img.shields.io/badge/.NET-000000?style=flat&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com/)
+- ⚙️ Build **enterprise web applications** — ERP, LMS, CRM, CMS, POS & business management systems
+- 🔧 Develop **backend systems & REST APIs** using Laravel, Node.js, Express.js, Python and FastAPI
+- 🖥️ Build modern **frontend applications** with React, Next.js, TypeScript and Tailwind CSS
+- 🗄️ Design and optimize **relational & NoSQL databases** including MySQL, MongoDB and MSSQL
+- 🤖 Build **AI/ML solutions** using Python, PyTorch, TensorFlow, Keras, OpenCV and Scikit-learn
+- 🔐 Implement **authentication, authorization, API security and role-based access control**
+- ☁️ Deploy and maintain applications using **AWS, Docker, cPanel and Git-based workflows**
+- 📊 Build **dashboards, analytics platforms and internal business tools**
+- 🔄 Design **API-first and modular architectures** for scalable applications
+- 🧠 Explore **AI-assisted development, LLM workflows and intelligent software systems**
 
-### Frontend
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
+---
 
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-000000?style=flat&logo=microsoft-sql-server&logoColor=CC2927)](https://learn.microsoft.com/en-us/sql/sql-server/)
+## 🏗️ Products & Domains I've Worked On
 
-### Cloud & DevOps
-[![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/)
-[![cPanel](https://img.shields.io/badge/cPanel-000000?style=flat&logo=cpanel&logoColor=FF6C37)](https://cpanel.com/)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
-
-
-### AI / ML
-[![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF6F00)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=D00000)](https://keras.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat&logo=opencv&logoColor=5C3EE8)](https://opencv.org/)
-[![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=flat&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org/)
+- 🧾 **ERP & Business Management Systems**
+- 🏪 **Garage / Service Center Management Systems**
+- 🎓 **Learning Management Systems (LMS)**
+- 👥 **CRM & Customer Management Platforms**
+- 📦 **Inventory & Stock Management Systems**
+- 💰 **Payroll & Financial Management Systems**
+- 🧾 **Invoicing, Billing & Payment Systems**
+- 📊 **Dashboards & Business Analytics**
+- 🌐 **API-driven Web Applications**
+- 🤖 **AI / Machine Learning Applications**
+- 📱 **Mobile & Cross-platform Applications**
 
 ---
 
